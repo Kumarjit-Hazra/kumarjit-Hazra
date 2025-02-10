@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Kumarjit Hazra!
 
-<!--
-**Kumarjit-Hazra/kumarjit-Hazra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Tech in Computer Science & Technology (Expected 2027)  
+💻 Passionate about Software Development, C++, Web Development, and AI  
+📚 Currently learning **Flutter** and advancing my **C++** skills  
 
-Here are some ideas to get you started:
+## 🔥 Skills & Interests
+- C, C++, HTML, CSS, JavaScript
+- Web Development & UI/UX
+- Problem-Solving & Algorithms  
+- Exploring Flutter for app development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🛒 [**Flipkart Clone**](https://github.com/Kumarjit-Hazra/Flipkart_Clone_Kumarjit) – HTML & CSS-based Flipkart frontend  
+- 📰 [**Fake News Detection**](https://github.com/Kumarjit-Hazra/TWSIP_Fake_News_Detection) – C-based project for detecting fake news  
+- 🎬 [**Movie Recommendation System**](https://github.com/Kumarjit-Hazra/TWSIP_Movie_Recommend_System) – Movie suggestion project in C  
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarjit-hazra-51880627a/)  
+📩 **Email:** kumarjithazra465@gmail.com  
+
+🚀 Always open to learning and collaboration!  
